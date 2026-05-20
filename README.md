@@ -1,2 +1,2 @@
 # my-repo-0203
-Repository my-repo-0203 created by RepoSeeder some test
+Repository my-repo-0203 created by RepoSeeder 
